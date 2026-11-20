@@ -1,4 +1,4 @@
-# Hi, I'm a innovated Blockchain developer and Software Engineer ⚡
+# Hi, I'm a innovated Software Engineer & Blockchain developer⚡
 
 Blockchain developer specializing in multi-chain ecosystems and decentralized applications. I build smart contracts, DeFi protocols, and trading infrastructure across **Solana, Ethereum, TON, and Sui**.
 
