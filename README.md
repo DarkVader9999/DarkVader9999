@@ -109,6 +109,6 @@ I'm always interested in connecting with fellow developers, founders, and innova
   <a href="(https://web.telegram.org/k/#@DarkVader9999"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DarkVader9999&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+</p> -->
